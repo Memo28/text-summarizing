@@ -1,12 +1,13 @@
 ## Text Surgeon
 
 By @Memo28
+By angelcostas
 
 ### [APP](https://text-summarazing.herokuapp.com)
 
 ## Overview
 
-With Text Surgeon you can your text/link and our app will summarizing and returns to you the most importan part of the text/link. At this point Text Surgeon can summarizing Spanish's text, but we are working in the algorithm to add more languages.
+With Text Surgeon you can paste your text/link and our app will summarize and return to you the most important parts of the text. At this point Text Surgeon can summarize Spanish's text, but we are working in the algorithm to add more languages.
 
 ## App Overview
 ![alt text](https://res.cloudinary.com/memovdg/image/upload/c_scale,w_400/v1573793123/1_gn88ta.png) ![alt text](https://res.cloudinary.com/memovdg/image/upload/c_scale,w_400/v1573793117/2_vpru3k.png)
@@ -43,11 +44,11 @@ Then run the app with
 Runs the app in the development mode.<br>
 Open [http://localhost:3006](http://localhost:3006) to view it in the browser.
 
-###### [Back-end by @Memo28](https://github.com/Memo28/api-text-summarazing)
+###### [Back-end by @angelcostas](https://github.com/Memo28/api-text-summarazing)
 * Python
   * Flask
   * NLTK
   * Tensorflow
   * flask-cors
   
- if you want to know more about the API for summarazing leve me a message on Twitter:@MemoVDevG
+ if you want to know more about the API for summarazing leave me a message on Twitter:@MemoVDevG
